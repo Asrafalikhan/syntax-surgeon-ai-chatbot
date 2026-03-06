@@ -32,4 +32,4 @@ AI Powered Python Code Fixer & Chatbot using IBM Granite Model.
 pip install -r requirements.txt
 
 python main.py
-https://github.com/username/syntax-surgeon-ai-chatbot
+https://github.com/YOURNAME/syntax-surgeon-ai-chatbot
